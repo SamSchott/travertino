@@ -8,6 +8,10 @@ RIGHT = 'right'
 TOP = 'top'
 BOTTOM = 'bottom'
 CENTER = 'center'
+TOPLEFT = 'topleft'
+TOPRIGHT = 'topright'
+BOTTOMRIGHT = 'bottomright'
+BOTTOMLEFT = 'bottomleft'
 
 ######################################################################
 # Direction
